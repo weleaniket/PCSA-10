@@ -26,6 +26,12 @@ public class defaultAutoSuggestion_by_click {
 		 //line for getting text result
 		for(WebElement ele : allsuggesion) {
 			 System.out.println(ele.getText());
+			 
+			 
+			  //line for getting text result
+		for(WebElement ele : allsuggesion) {
+			 System.out.println(ele.getText());
+			 
 		 }
 		
 
